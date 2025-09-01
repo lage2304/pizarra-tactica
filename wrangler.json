@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "pizarra-tactica",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "b1a6e0b3-6a05-4614-a062-432362ae5f7b",
+      "database_name": "pizarra-tactica-db"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
